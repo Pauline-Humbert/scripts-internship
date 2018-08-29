@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 cd /home/phumbert/raw_data/RNAseq/ #put directly in the correct directory 
 
 output=/home/phumbert/raw_data/RNAseq/FASTQCresults/ #variable saves the directory where files created will be put
