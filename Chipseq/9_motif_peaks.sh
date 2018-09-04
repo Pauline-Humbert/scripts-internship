@@ -17,6 +17,6 @@ d=$DName
 cd /home/phumbert/raw_data/Chipseq/Motif_Analysis/${d}/1_PWM_motif/
 
 fimo --parse-genomic-coord --oc fimo matrix_2motifs.txt ${d}"_"peaks"_"narrowPeak.fa
-#create a file to know what peaks contain a motif
+#create a file to know what peaks contain a elba or insv motif
 
 done
